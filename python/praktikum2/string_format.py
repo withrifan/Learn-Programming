@@ -2,9 +2,9 @@
 String Format
 simpan dengan nama string_format.py
 '''
-first_name = "Tri"
-middle_name = "Wanda"
-last_name = "Septian"
+first_name = "Mr"
+middle_name = "Achmad"
+last_name = "Rifan"
 
 sapa = f"Halo {first_name} {middle_name} {last_name}"
 

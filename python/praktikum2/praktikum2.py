@@ -1,3 +1,7 @@
+# Tipe data Boolean
+print(True)
+
+# Tipe data string
 print('ini adalah tanda single quote (\')')
 print("ini adalah tanda double quote (\")")
 print("ini adalah tanda slash (\\)")
@@ -17,10 +21,10 @@ print(4.2e-3)
 print(0b10)
 
 #tipe data Octal
-print(0b1000)
+print(0o10)
 
 #tipe data Hexadecimal
-print()
+print(0x10)
 
 #tipe data Complex
 print(5j)
