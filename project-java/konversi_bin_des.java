@@ -8,7 +8,6 @@ public class konversi_bin_des {
             int desimal = Integer.parseInt(binin, 2);
             JOptionPane.showMessageDialog(null, "Angka Desimal dari Biner: " + binin + " adalah " + desimal);
         } catch (Exception e) {
-            // TODO: handle exception
             JOptionPane.showMessageDialog(null, "Input tidak valid");
         }
     }

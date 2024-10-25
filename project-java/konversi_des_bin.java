@@ -9,7 +9,6 @@ public class konversi_des_bin {
             String binary = Integer.toBinaryString(desimal);
             JOptionPane.showMessageDialog(null, "Angka biner dari " + desimal + " adalah " + binary);
         } catch (Exception e) {
-            // TODO: handle exception
             JOptionPane.showMessageDialog(null, "Input tidak valid, Harap masukkan angka desimal");
         }
     }
