@@ -4,4 +4,4 @@ print("NIM :" ,0000000) # mencetak NIM dari Achmad Rif'an
 print("Angkatan :", 0000) # mencetak tahun angkatan dari Achmad Rif'an
 print("Jurusan : S1 Teknik Informatika") # mencetak nama jurusan 
 print("Fakultas Teknik") # mencetak nama fakultas teknik
-print("Universitas") # mencetak nama universitas (UMAHA)
+print("Universitas") # mencetak nama universitas 
